@@ -9,17 +9,6 @@ place orders, and view their order history.
 > Verify backend, database, authentication, and order flows in your
 > environment before describing every feature as production-ready.
 
-## 📸 Screenshots
-
-### Homepage
-
-![FoodieExpress homepage](docs/screenshots/homepage.png)
-
-### Food menu
-
-![FoodieExpress menu with food cards and Add
-buttons](docs/screenshots/menu.png)
-
 ## ✨ Features
 
 -   Responsive homepage and food menu
